@@ -114,7 +114,7 @@ body{
 } */
 /* end header  */
 .landing{
-    background-image: url(../images/back.jpg);
+    background-image: url(back.jpg);
     background-size:cover;
     height: calc(100vh - 64px);
     position: relative;
